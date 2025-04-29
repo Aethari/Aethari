@@ -2,7 +2,7 @@ Hi there! I'm DJaySky, an American solo dev with a focus on games and systems pr
 certain libraries, a C logging library, and a custom Neovim theme (ok, I just used [lush.nvim](https://github.com/rktjmp/lush.nvim) - whatever).  
 
 My GitHub page probably doesn't look pretty impressive right now, but I'm working on big things for the future. I'm sure I'll take little bits and
-pieces from my larger projects to make into smaller ones (like [MLog](https://github.com/DJaySky/MLog), so keep checking back to see if I made 
+pieces from my larger projects to make into smaller ones (like [MLog](https://github.com/DJaySky/MLog)), so keep checking back to see if I made 
 something new :)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djaysky"/>
