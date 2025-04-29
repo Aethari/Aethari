@@ -1,16 +1,36 @@
-## Hi there 👋
+Hi there! I'm DJaySky, an American solo dev with a focus on games and systems programming. I've made several small scripts to help automate using
+certain libraries, a C logging library, and a custom Neovim theme (ok, I just used [lush.nvim](https://github.com/rktjmp/lush.nvim) - whatever).  
 
-<!--
-**DJaySky/DJaySky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My GitHub page probably doesn't look pretty impressive right now, but I'm working on big things for the future. I'm sure I'll take little bits and
+pieces from my larger projects to make into smaller ones (like [MLog](https://github.com/DJaySky/MLog), so keep checking back to see if I made 
+something new :)
 
-Here are some ideas to get you started:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djaysky"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current projects:
+- An unnamed, raycasted dungeon crawler with a built in engine, written in C+Lua with SDL3
+- A single header GUI library for SDL3
+
+### Future projects:
+These are things that I **want** to make in the future. Whether or not they will actually get done is another story.
+- Modern, customizable application launcher for Linux
+- A (kind of) general purpose raycasting game engine
+- A simple 2D game engine
+- Some smaller tools to go with the engines
+- A TUI/CLI (haven't decided yet) file browser that isn't terrible to use
+- Pomodoro tracking app (desktop and terminal)
+
+## Skills:
+- C
+- Lua
+- C+Lua interfaces
+- SDL
+- Small, specific scripts
+- Game engines
+- Terminal apps
+
+## Here's some things about me:
+- **Favorite language(s):** C+Lua (really just Lua, but C is too powerful to ignore)
+- **Favorite text editor:** Neovim
+- **Favorite game:** ULTRAKILL/Moonring (I haven't quite decided yet)
+- **Interests/hobbies:** Programming, music, video games, and Linux
