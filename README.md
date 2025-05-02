@@ -19,6 +19,7 @@ These are things that I **want** to make in the future. Whether or not they will
 - Some smaller tools to go with the engines
 - A TUI/CLI (haven't decided yet) file browser that isn't terrible to use
 - Pomodoro tracking app (desktop and terminal)
+- A modern Nano clone focused on simplicity and usability
 
 ## Skills:
 - C
