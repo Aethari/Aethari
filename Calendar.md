@@ -31,8 +31,7 @@ private and open them when substantial progress has been made.
 - **Wed. 14:** [Sunray](https://github.com/DJaySky/Sunray)
 - **Thu. 15:** [Sunray](https://github.com/DJaySky/Sunray)
 - **Fri. 16:** [Tori](https://github.com/DJaySky/Tori)
-  - begin a new version of Tori that is a dialect of Lua
-  - see [this ChatGPT chat](https://chatgpt.com/share/681df815-ebfc-8007-a8b9-42a754587c93) for more specifics
+  - see [this ChatGPT chat](https://chatgpt.com/share/681df815-ebfc-8007-a8b9-42a754587c93) for specifics
 - **Sat. 17:** [Tori](https://github.com/DJaySky/Tori)
 - **Sun. 18:** [Tori](https://github.com/DJaySky/Tori)
 
