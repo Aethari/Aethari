@@ -5,8 +5,6 @@ My GitHub page probably doesn't look pretty impressive right now, but I'm workin
 pieces from my larger projects to make into smaller ones (like [MLog](https://github.com/DJaySky/MLog)), so keep checking back to see if I made 
 something new :)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djaysky"/>
-
 ## Current projects:
 - An unnamed, raycasted dungeon crawler with a built in engine, written in C+Lua with SDL3
 - A minimalist, no-dependency Lua based terminal text editor
