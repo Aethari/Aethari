@@ -50,5 +50,5 @@ private and open them when substantial progress has been made.
 - **Wed. 28:** [Sunray](https://github.com/DJaySky/Sunray)
 - **Thu. 29:** [Sunray](https://github.com/DJaySky/Sunray)
 - **Fri. 30:** [Sunray](https://github.com/DJaySky/Sunray)
-- **Sat. 31:** [Runic](https://github.com/DJaySky/Runic)
-- **Sun. Jun. 1:** [Runic](https://github.com/DJaySky/Runic)
+- **Sat. 31:** [Tori](https://github.com/DJaySky/Tori)
+- **Sun. Jun. 1:** [Tori](https://github.com/DJaySky/Tori)
