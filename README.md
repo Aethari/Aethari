@@ -1,8 +1,8 @@
-Hi there! I'm DJaySky, an American solo dev with a focus on games and systems programming. I've haven't made much, but I'm on my way to completing
+Hi there! I'm Aethari, an American solo dev with a focus on games and systems programming. I've haven't made much, but I'm on my way to completing
 several projects.
 
 My GitHub page probably doesn't look pretty impressive right now, but I'm working on big things for the future. I'm sure I'll take little bits and
-pieces from my larger projects to make into smaller ones (like [MLog](https://github.com/DJaySky/MLog)), so keep checking back to see if I made 
+pieces from my larger projects to make into smaller ones (like [MLog](https://github.com/Aethari/MLog)), so keep checking back to see if I made 
 something new :)
 
 ## Current projects:
