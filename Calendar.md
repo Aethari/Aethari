@@ -39,7 +39,7 @@ private and open them when substantial progress has been made.
 - **Tue. 20:** [Sunray](https://github.com/Aethari/Sunray)
 - **Wed. 21:** [Sunray](https://github.com/Aethari/Sunray)
 - **Thu. 22:** [Sunray](https://github.com/Aethari/Sunray)
-- **Fri. 23:** [Sunray](https://github.com/Aethari/Sunray)
+- **Fri. 23:** [Sun2D](https://github.com/Aethari/Sun2D)
 - **Sat. 24:** [Sun2D](https://github.com/Aethari/Sun2D)
 - **Sun. 25:** [Sun2D](https://github.com/Aethari/Sun2D)
 
