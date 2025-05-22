@@ -6,7 +6,7 @@ pieces from my larger projects to make into smaller ones (like [MLog](https://gi
 something new :)
 
 ## Current projects:
-- An unnamed, raycasted dungeon crawler with a built in engine, written in C+Lua with SDL3
+- An [unnamed, raycasted dungeon crawler with a built in engine](https://github.com/Aethari/Sunray), written in C+Lua with SDL3
 - A minimalist, no-dependency Lua based terminal text editor
 - **[Development calendar](Calendar.md)**
 
