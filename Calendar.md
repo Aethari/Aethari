@@ -1,9 +1,7 @@
 # Aethari's development calendar
 A simple, monthly calendar designed to keep me organized and on top of my work.  
-If, for some reason, you are here and aren't Aethari, then you probably won't be able to see many of the repos that are linked. This is because I start my projects as 
-private and open them when substantial progress has been made.
 
-**Note:** This month starts late, because I created the calendar partway through the month.
+**Note:** This month (May 2025) starts late, because I created the calendar partway through the month.
 
 *If you are in an environment where it is impossible to develop/test a project (i.e. Windows computer), simply work on the main project instead.*
 
