@@ -37,15 +37,15 @@ A simple, monthly calendar designed to keep me organized and on top of my work.
 - **Tue. 20:** [Sunray](https://github.com/Aethari/Sunray)
 - **Wed. 21:** [Sunray](https://github.com/Aethari/Sunray)
 - **Thu. 22:** [Sunray](https://github.com/Aethari/Sunray)
-- **Fri. 23:** [Sun2D](https://github.com/Aethari/Sun2D)
-- **Sat. 24:** [Sun2D](https://github.com/Aethari/Sun2D)
-- **Sun. 25:** [Sun2D](https://github.com/Aethari/Sun2D)
+- **Fri. 23:** [souls.p8](https://github.com/Aethari/Carts)
+- **Sat. 24:** [souls.p8](https://github.com/Aethari/Carts)
+- **Sun. 25:** [souls.p8](https://github.com/Aethari/Carts)
 
 #### Week of May 26
-- **Mon. 26:** [Sunray](https://github.com/Aethari/Sunray)
-- **Tue. 27:** [Sunray](https://github.com/Aethari/Sunray)
-- **Wed. 28:** [Sunray](https://github.com/Aethari/Sunray)
-- **Thu. 29:** [Sun2D](https://github.com/Aethari/Sun2D)
-- **Fri. 30:** [Sun2D](https://github.com/Aethari/Sun2D)
-- **Sat. 31:** [Sun2D](https://github.com/Aethari/Sun2D)
-- **Sun. Jun. 1:** [Sun2D](https://github.com/Aethari/Sun2D)
+- **Mon. 26:** [souls.p8](https://github.com/Aethari/Carts)
+- **Tue. 27:** [souls.p8](https://github.com/Aethari/Carts)
+- **Wed. 28:** [souls.p8](https://github.com/Aethari/Carts)
+- **Thu. 29:** [souls.p8](https://github.com/Aethari/Carts)
+- **Fri. 30:** [souls.p8](https://github.com/Aethari/Carts)
+- **Sat. 31:** Break
+- **Sun. Jun. 1:** Break
