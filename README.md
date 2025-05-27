@@ -6,17 +6,15 @@ pieces from my larger projects to make into smaller ones (like [MLog](https://gi
 something new :)
 
 ## Current projects:
-- An [unnamed, raycasted dungeon crawler with a built in engine](https://github.com/Aethari/Sunray), written in C+Lua with SDL3
-- A minimalist, no-dependency Lua based terminal text editor
+- A variety of [pico-8 carts](https://github.com/Aethari/Carts) - I plan on making several over the summer
+- A fantasy console-like [game framework called Sun16](https://github.com/Aethari/Sun16) that provides less restrictions than most fantasy consoles
 - **[Development calendar](Calendar.md)**
 
 ### Future projects:
 These are things that I **want** to make in the future. Whether or not they will actually get done is another story.
 - Modern, customizable application launcher for Linux
 - A (kind of) general purpose raycasting game engine
-- A simple 2D game engine
-- Some smaller tools to go with the engines
-- A TUI/CLI (haven't decided yet) file browser that isn't terrible to use
+- A TUI/CLI (haven't decided yet) file browser
 - Pomodoro tracking app (desktop and terminal)
 
 ## Skills:
@@ -24,9 +22,10 @@ These are things that I **want** to make in the future. Whether or not they will
 - C
 - C+Lua interfaces
 - SDL
-- Small, specific scripts
+- Game development/programming
+- Retro-inspired game music
 - Game engines
-- Terminal apps
+- Terminal programs
 
 ## Here's some things about me:
 - **Favorite language(s):** C + Lua (really just Lua, but C is too powerful to ignore)
