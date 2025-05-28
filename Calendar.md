@@ -46,6 +46,6 @@ A simple, monthly calendar designed to keep me organized and on top of my work.
 - **Tue. 27:** [souls.p8](https://github.com/Aethari/Carts)
 - **Wed. 28:** [souls.p8](https://github.com/Aethari/Carts)
 - **Thu. 29:** [souls.p8](https://github.com/Aethari/Carts)
-- **Fri. 30:** [souls.p8](https://github.com/Aethari/Carts)
+- **Fri. 30:** Break
 - **Sat. 31:** Break
 - **Sun. Jun. 1:** Break
