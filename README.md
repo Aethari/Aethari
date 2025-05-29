@@ -29,5 +29,5 @@ These are things that I **want** to make in the future. Whether or not they will
 
 ## Here's some things about me:
 - **Favorite language(s):** C + Lua (really just Lua, but C is too powerful to ignore)
-- **Favorite text editor:** Nano/Micro
+- **Favorite text editor:** Nvim/Micro (I jump between them)
 - **Interests/hobbies:** Programming, music, video games, biking, and Linux
