@@ -14,7 +14,6 @@ something new :)
 These are things that I **want** to make in the future. Whether or not they will actually get done is another story.
 - Modern, customizable application launcher for Linux
 - A (kind of) general purpose raycasting game engine
-- A TUI/CLI (haven't decided yet) file browser
 - Pomodoro tracking app (desktop and terminal)
 
 ## Skills:
