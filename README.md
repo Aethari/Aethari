@@ -25,6 +25,7 @@ These are things that I **want** to make in the future. Whether or not they will
 - Retro-inspired game music
 - Game engines
 - Terminal programs
+- Godot (4)
 
 ## Here's some things about me:
 - **Favorite language(s):** C + Lua (really just Lua, but C is too powerful to ignore)
