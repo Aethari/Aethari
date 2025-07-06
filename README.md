@@ -12,9 +12,10 @@ something new :)
 
 ### Future projects:
 These are things that I **want** to make in the future. Whether or not they will actually get done is another story.
-- Modern, customizable application launcher for Linux
 - A (kind of) general purpose raycasting game engine
 - Pomodoro tracking app (desktop and terminal)
+- A C dynamic string library
+- Modification of MLog for C dynamic string library
 
 ## Skills:
 - Lua
