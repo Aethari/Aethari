@@ -44,19 +44,19 @@ A simple, monthly calendar designed to keep me organized and on top of my work.
 **Sun. 20:** [Survival Game](https://github.com/Aethari/Inabris)  
 
 #### Week of July 21
-**Mon. 21:** [Sun16](https://github.com/Aethari/Sun16)  
-**Tue. 22:** [Sun16](https://github.com/Aethari/Sun16)  
-**Wed. 23:** [Sun16](https://github.com/Aethari/Sun16)  
-**Thu. 24:** [Sun16](https://github.com/Aethari/Sun16)  
-**Fri. 25:** [Sun16](https://github.com/Aethari/Sun16)  
-**Sat. 26:** [Sun16](https://github.com/Aethari/Sun16)  
-**Sun. 27:** [Sun16](https://github.com/Aethari/Sun16)  
+**Mon. 21:** [Runic](https://github.com/Aethari/Runic)  
+**Tue. 22:** [Runic](https://github.com/Aethari/Runic)  
+**Wed. 23:** [Runic](https://github.com/Aethari/Runic)  
+**Thu. 24:** [Runic](https://github.com/Aethari/Runic)  
+**Fri. 25:** [Runic](https://github.com/Aethari/Runic)  
+**Sat. 26:** [Runic](https://github.com/Aethari/Runic)  
+**Sun. 27:** [Runic](https://github.com/Aethari/Runic)  
 
 #### Week of July 28
-**Mon. 28:** [Survival Game](https://github.com/Aethari/Inabris)  
-**Tue. 29:** [Survival Game](https://github.com/Aethari/Inabris)  
-**Wed. 30:** [Survival Game](https://github.com/Aethari/Inabris)  
-**Thu. 31:** [Survival Game](https://github.com/Aethari/Inabris)  
-**Fri. Aug. 1:** [Survival Game](https://github.com/Aethari/Inabris)  
-**Sat. Aug. 2:** [Survival Game](https://github.com/Aethari/Inabris)  
+**Mon. 28:** [Sun16](https://github.com/Aethari/Sun16)  
+**Tue. 29:** [Sun16](https://github.com/Aethari/Sun16)  
+**Wed. 30:** [Sun16](https://github.com/Aethari/Sun16)  
+**Thu. 31:** [Sun16](https://github.com/Aethari/Sun16)  
+**Fri. Aug. 1:** [Sun16](https://github.com/Aethari/Sun16)  
+**Sat. Aug. 2:** [Sun16](https://github.com/Aethari/Sun16)  
 **Sun Aug. 3:** Break  
