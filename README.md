@@ -6,8 +6,8 @@ pieces from my larger projects to make into smaller ones (like [MLog](https://gi
 something new :)
 
 ## Current projects:
-- A variety of [pico-8 carts](https://github.com/Aethari/Carts) - I plan on making several over the summer
 - A fantasy console-like [game framework called Sun16](https://github.com/Aethari/Sun16) that provides less restrictions than most fantasy consoles
+- A minimalist, single file [text editor in lua called Runic](https://github.com/Aethari/Runic)
 - **[Development calendar](Calendar.md)**
 
 ### Future projects:
