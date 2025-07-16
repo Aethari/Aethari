@@ -18,12 +18,12 @@ A simple, monthly calendar designed to keep me organized and on top of my work.
 <sub>Markdown calendar generated from https://mdcal.matavelli.io/</sub>
 
 #### Week of June 30
-**Tue. 1:** [Survival Game](https://github.com/Aethari/Inabris)  
-**Wed. 2:** [Survival Game](https://github.com/Aethari/Inabris)  
-**Thu. 3:** [Survival Game](https://github.com/Aethari/Inabris)  
-**Fri. 4:** [Survival Game](https://github.com/Aethari/Inabris)  
-**Sat. 5:** [Survival Game](https://github.com/Aethari/Inabris)  
-**Sun. 6:** [Survival Game](https://github.com/Aethari/Inabris)  
+**Tue. 1:** [Tori](https://github.com/Aethari/Tori)  
+**Wed. 2:** [Tori](https://github.com/Aethari/Tori)  
+**Thu. 3:** [Tori](https://github.com/Aethari/Tori)  
+**Fri. 4:** [Tori](https://github.com/Aethari/Tori)  
+**Sat. 5:** [Tori](https://github.com/Aethari/Tori)  
+**Sun. 6:** [Tori](https://github.com/Aethari/Tori)  
 
 #### Week of July 7
 **Mon. 7:** [Sun16](https://github.com/Aethari/Sun16)  
@@ -35,13 +35,13 @@ A simple, monthly calendar designed to keep me organized and on top of my work.
 **Sun. 13:** [Sun16](https://github.com/Aethari/Sun16)  
 
 #### Week of July 14
-**Mon. 14:** [Survival Game](https://github.com/Aethari/Inabris)  
-**Tue. 15:** [Survival Game](https://github.com/Aethari/Inabris)  
-**Wed. 16:** [Survival Game](https://github.com/Aethari/Inabris)  
-**Thu. 17:** [Survival Game](https://github.com/Aethari/Inabris)  
-**Fri. 18:** [Survival Game](https://github.com/Aethari/Inabris)  
-**Sat. 19:** [Survival Game](https://github.com/Aethari/Inabris)  
-**Sun. 20:** [Survival Game](https://github.com/Aethari/Inabris)  
+**Mon. 14:** [Tori](https://github.com/Aethari/Tori)  
+**Tue. 15:** [Tori](https://github.com/Aethari/Tori)  
+**Wed. 16:** [Tori](https://github.com/Aethari/Tori)  
+**Thu. 17:** [Tori](https://github.com/Aethari/Tori)  
+**Fri. 18:** [Tori](https://github.com/Aethari/Tori)  
+**Sat. 19:** [Tori](https://github.com/Aethari/Tori)  
+**Sun. 20:** [Tori](https://github.com/Aethari/Tori)  
 
 #### Week of July 21
 **Mon. 21:** [Runic](https://github.com/Aethari/Runic)  
