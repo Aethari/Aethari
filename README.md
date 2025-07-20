@@ -7,7 +7,7 @@ something new :)
 
 ## Current projects:
 - A fantasy console-like [game framework called Sun16](https://github.com/Aethari/Sun16) that provides less restrictions than most fantasy consoles
-- A minimalist, single file [text editor in lua called Runic](https://github.com/Aethari/Runic)
+- A minimalist, single file [text editor in Lua called Runic](https://github.com/Aethari/Runic)
 - **[Development calendar](Calendar.md)**
 
 ### Future projects:
