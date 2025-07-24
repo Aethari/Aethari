@@ -8,7 +8,7 @@ something new :)
 ## Current projects:
 - A fantasy console-like [game framework called Sun16](https://github.com/Aethari/Sun16) that provides less restrictions than most fantasy consoles
 - A minimalist, single file [text editor in Lua called Runic](https://github.com/Aethari/Runic)
-- A [dialect of Lua called Tori](https://github.com/Aethari/Tori) that aims to make the language more independant and closer to higher level langauges
+- A [dialect of Lua called Tori](https://github.com/Aethari/Tori) that aims to make the language more independent and closer to higher level langauges
 - **[Development calendar](Calendar.md)**
 
 ### Future projects:
