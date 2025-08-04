@@ -1,4 +1,4 @@
-# Aethari's development calendar
+# Aethari's development calendar (outdated - be back in September)
 A simple, monthly calendar designed to keep me organized and on top of my work.  
 
 *If you are in an environment where it is impossible to develop/test a project (i.e. Windows computer), simply work on the main project instead.*
