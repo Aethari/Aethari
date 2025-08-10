@@ -17,6 +17,7 @@ These are things that I **want** to make in the future. Whether or not they will
 - Pomodoro tracking app (desktop and terminal)
 - A C dynamic string library
 - A C command line argument parsing library
+- A program to parse C documntation comments (I have a syntax that I use in all of my C code, but it would be nice to auto-generate documentation for it)
 
 ## Skills:
 - Lua
