@@ -18,11 +18,12 @@ These are things that I **want** to make in the future. Whether or not they will
 - A C dynamic string library
 - A C command line argument parsing library
 - A program to parse C documntation comments (I have a syntax that I use in all of my C code, but it would be nice to auto-generate documentation for it)
+- A "plugin" / header for Lua APIs that adds some much-needed file access functions (access(), mkdir(), etc.)
 
 ## Skills:
 - Lua
 - C
-- C+Lua interfaces
+- C+Lua API
 - SDL
 - Game development/programming
 - Retro-inspired game music
