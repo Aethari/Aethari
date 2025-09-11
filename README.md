@@ -9,7 +9,6 @@ something new :)
 - A fantasy console-like [game framework called Sun16](https://github.com/Aethari/Sun16) that provides less restrictions than most fantasy consoles
 - A minimalist, single file [text editor in Lua called Runic](https://github.com/Aethari/Runic)
 - An automatic file syncing program [called Amirror](https://github.com/Aethari/Amirror)
-- **[Development calendar](Calendar.md)**
 
 ### Future projects:
 These are things that I **want** to make in the future. Whether or not they will actually get done is another story.
