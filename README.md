@@ -17,7 +17,8 @@ These are things that I **want** to make in the future. Whether or not they will
 - A C dynamic string library
 - A C command line argument parsing library
 - A program to parse C documntation comments (I have a syntax that I use in all of my C code, but it would be nice to auto-generate documentation for it)
-- A "plugin" / header for Lua APIs that adds some much-needed file access functions (access(), mkdir(), etc.)
+- A "plugin" / header for Lua APIs that adds some much-needed file access functions (access(), mkdir(), etc.) - *not* LFS, which is a library for non-embedded Lua
+- A Unix/Linux utility to find and replace strings in files across a whole project (including subdirectories)
 
 ## Skills:
 - Lua
